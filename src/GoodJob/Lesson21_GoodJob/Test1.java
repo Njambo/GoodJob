@@ -1,0 +1,14 @@
+package GoodJob.Lesson21_GoodJob;
+
+public class Test1 {
+    public static void main(String[] args) {
+//        int a = 3;
+//        System.out.println((a < 4 ? 7 : "Hi"));
+//        int b = (a < 4) ? 7: "Hi";
+        int a = 5;
+        int b = 5;
+        int c = (a > 6) ? a++ : b++;
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+    }
+}
