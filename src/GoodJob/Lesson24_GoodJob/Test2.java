@@ -2,7 +2,7 @@ package GoodJob.Lesson24_GoodJob;
 
 public class Test2 {
     public static void main(String[] args) {
-        Figure f1 = new Circles()
+        //Figure f1 = new Circles();
     }
 
     abstract class Figure {
