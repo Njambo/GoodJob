@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Test1 {
     public static void main(String[] args) {
         Car car1 = new Car("red", "V4");
-        Car car2 = new Car("red", "V4");
+        Car car2 = null;
         Car car3 = new Car("black", "V6");
         ArrayList <Car> list = new ArrayList<>();
         list.add(car1);
