@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson14_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson14_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson15_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson15_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson16_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson16_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson17_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson17_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson18_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson18_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson19_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson19_.GoodJob" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson20_.GoodJob" isTestSource="false" packagePrefix="GoodJob.Lesson20_.GoodJob" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
